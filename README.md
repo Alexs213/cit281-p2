@@ -8,4 +8,4 @@ Gain experience writing and executing non-web server Node.js JavaScript code
 
 Practice refactoring JavaScript code
 
-![project2](p2,png)
+![project2](p2.png)
